@@ -1,0 +1,14 @@
+X:\MAINFRAME\Emne 3 C#\AllTheTasks\AllTheTasks\bin\Debug\net8.0\AllTheTasks.exe
+X:\MAINFRAME\Emne 3 C#\AllTheTasks\AllTheTasks\bin\Debug\net8.0\AllTheTasks.deps.json
+X:\MAINFRAME\Emne 3 C#\AllTheTasks\AllTheTasks\bin\Debug\net8.0\AllTheTasks.runtimeconfig.json
+X:\MAINFRAME\Emne 3 C#\AllTheTasks\AllTheTasks\bin\Debug\net8.0\AllTheTasks.dll
+X:\MAINFRAME\Emne 3 C#\AllTheTasks\AllTheTasks\bin\Debug\net8.0\AllTheTasks.pdb
+X:\MAINFRAME\Emne 3 C#\AllTheTasks\AllTheTasks\obj\Debug\net8.0\AllTheTasks.GeneratedMSBuildEditorConfig.editorconfig
+X:\MAINFRAME\Emne 3 C#\AllTheTasks\AllTheTasks\obj\Debug\net8.0\AllTheTasks.AssemblyInfoInputs.cache
+X:\MAINFRAME\Emne 3 C#\AllTheTasks\AllTheTasks\obj\Debug\net8.0\AllTheTasks.AssemblyInfo.cs
+X:\MAINFRAME\Emne 3 C#\AllTheTasks\AllTheTasks\obj\Debug\net8.0\AllTheTasks.csproj.CoreCompileInputs.cache
+X:\MAINFRAME\Emne 3 C#\AllTheTasks\AllTheTasks\obj\Debug\net8.0\AllTheTasks.dll
+X:\MAINFRAME\Emne 3 C#\AllTheTasks\AllTheTasks\obj\Debug\net8.0\refint\AllTheTasks.dll
+X:\MAINFRAME\Emne 3 C#\AllTheTasks\AllTheTasks\obj\Debug\net8.0\AllTheTasks.pdb
+X:\MAINFRAME\Emne 3 C#\AllTheTasks\AllTheTasks\obj\Debug\net8.0\AllTheTasks.genruntimeconfig.cache
+X:\MAINFRAME\Emne 3 C#\AllTheTasks\AllTheTasks\obj\Debug\net8.0\ref\AllTheTasks.dll
